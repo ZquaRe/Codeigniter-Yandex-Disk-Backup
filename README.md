@@ -2,7 +2,7 @@
 
 # Kurulum
 
-Öncelikle Videoyu İzliyerek API Key Oluşturunuz. <br>
+Öncelikle Videoyu İzleyerek API Key Oluşturunuz. <br>
 https://www.youtube.com/watch?v=t20Ye0A1dRY&t=51s <br>
 Videoda bulunan AccesToken kodunuzu almaya yarayan link. <br>
 https://tech.yandex.com/disk/webdav/oauth.yandex.ru/authorize?response_type=token&client_id=TOKENID
