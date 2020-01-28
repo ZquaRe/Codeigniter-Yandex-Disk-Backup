@@ -26,6 +26,7 @@ class yandex {
         ini_set('memory_limit', '-1');
         $this->CI = $CI = & get_instance();
         $this->CI->load->database();
+        $CI->load->library('backup');
     }
     public function YandexBackup() {
         $Config = array(
