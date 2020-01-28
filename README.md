@@ -24,6 +24,7 @@ $config['composer_autoload'] = APPPATH . 'vendor/autoload.php';
 + **Backup** klasörünü application dosyasının içerisine atınız.
 + **vendor** klasörünü application dosyasının içerisine atınız. **Aksi takdirde çalışmayacaktır.**
 + **libraries** klasörü içerisinde **yandex.php** dosyası mevcuttur, **libraries** klasörünün içerisine atınız.
++ **libraries** klasörü içerisinde **backup.php** dosyası mevcuttur, **libraries** klasörünün içerisine atınız.
 
 # Saat Farkı
 Eğer Yandex'e yüklenen dosya veya klasörlerin saatleri farklı ise aşağıda bulunan kodu **libraries** içerisinde yandex.php dosyasının **__construct** içerisine yazınız.
